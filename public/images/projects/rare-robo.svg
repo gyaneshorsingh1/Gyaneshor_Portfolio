@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#0a0a0a"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="1000" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7ec8d8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7ec8d8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#f2f2f0" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#grid)"/>
+  <circle cx="1200" cy="500" r="180" fill="url(#g)" stroke="#7ec8d8" stroke-opacity="0.3"/>
+  <circle cx="1200" cy="500" r="90" stroke="#7ec8d8" stroke-opacity="0.45"/>
+  <circle cx="1200" cy="500" r="8" fill="#7ec8d8"/>
+  <line x1="1020" y1="500" x2="1380" y2="500" stroke="#7ec8d8" stroke-opacity="0.25"/>
+  <line x1="1200" y1="320" x2="1200" y2="680" stroke="#7ec8d8" stroke-opacity="0.25"/>
+  <text x="180" y="240" fill="#f2f2f0" font-family="Arial, sans-serif" font-size="64" font-weight="700">Rare Robo</text>
+  <text x="180" y="300" fill="#8a8a86" font-family="Arial, sans-serif" font-size="28" letter-spacing="4">INTERACTIVE PLATFORM</text>
+  <text x="180" y="820" fill="#5c5c58" font-family="Arial, sans-serif" font-size="20" letter-spacing="3">REACT · DESIGN · MOTION</text>
+</svg>
